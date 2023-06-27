@@ -28,19 +28,19 @@ export default function Header() {
                       </div>
                       <div className="col-lg-5 text-right">
                           <div className="d-inline-flex align-items-center p-2">
-                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
+                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="/">
                                   <i className="fab fa-facebook-f"></i>
                               </a>
-                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
+                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="/">
                                   <i className="fab fa-twitter"></i>
                               </a>
-                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
+                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="/">
                                   <i className="fab fa-linkedin-in"></i>
                               </a>
-                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
+                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="/">
                                   <i className="fab fa-instagram"></i>
                               </a>
-                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
+                              <a className="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="/">
                                   <i className="fab fa-youtube"></i>
                               </a>
                           </div>
@@ -71,7 +71,7 @@ export default function Header() {
                               </div>
                               <a href="/contact" className="nav-item nav-link">Contact</a>
                           </div>
-                          <a href="" className="btn btn-primary mr-3 d-none d-lg-block">Get A Quote</a>
+                          <a href="/" className="btn btn-primary mr-3 d-none d-lg-block">Get A Quote</a>
                       </div>
                   </nav>
               </div>

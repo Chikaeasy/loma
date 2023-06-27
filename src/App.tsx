@@ -73,7 +73,7 @@ function App() {
                             2003. This service includes presiding over trials and conduc1ng hearings,reviewing and
                             execu1ng or rejec1ng search or arrest warrants, and arraigning defendants for entering pleas
                             or release from confinement.</p>
-                        <a href="" className="btn btn-primary mt-2">Learn More</a>
+                        <a href="/" className="btn btn-primary mt-2">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@ function App() {
                         <h1 className="mb-4">Our Practice Areas</h1>
                         <p>Have a look at some of our areas of practice so you can have a better understanding what we
                             provde.</p>
-                        <a href="" className="btn btn-primary mt-2">More Services</a>
+                        <a href="/" className="btn btn-primary mt-2">More Services</a>
                     </div>
                     <div className="col-lg-9 pt-5 pt-lg-0">
                         <div className="bg-primary rounded" style={{height: "200px"}}></div>
