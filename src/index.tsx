@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals';
 import Header from "./Header";
 import {Route, Routes, Navigate, HashRouter} from "react-router-dom";
 import About from "./About";
-import isProduction from "./variables/isProduction";
 
 const root = ReactDOM.createRoot(
     document.getElementById('root') as HTMLElement
