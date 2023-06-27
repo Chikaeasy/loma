@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import testimonialImage4 from "./img/testimonial-4.jpg";
+import testimonialImage4 from "./assets/img/testimonial-4.jpg";
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
                 <div className="carousel-inner">
                     <div className="carousel-item position-relative active"
                          style={{height: "100vh", minHeight: "400px"}}>
-                        <img className="position-absolute w-100 h-100" src="/img/images/scale-of-justicewoman.png"
+                        <img className="position-absolute w-100 h-100" src="/assets/img/images/scale-of-justicewoman.png"
                              style={{objectFit: "cover"}} alt="Scales of justice with woman"/>
                         <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div className="p-3" style={{maxWidth: "900px"}}>
@@ -26,7 +26,7 @@ function App() {
                         </div>
                     </div>
                     <div className="carousel-item position-relative" style={{height: "100vh", maxHeight: "400px"}}>
-                        <img className="position-absolute w-100 h-100" src="/img/images/scale-of-justice-with-gavel.jpg"
+                        <img className="position-absolute w-100 h-100" src="/assets/img/images/scale-of-justice-with-gavel.jpg"
                              style={{objectFit: "cover"}} alt= "Scales of Justice with gavel in front"/>
                         <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div className="p-3" style={{maxWidth: "900px"}}>
@@ -62,7 +62,7 @@ function App() {
             <div className="container py-5">
                 <div className="row">
                     <div className="col-lg-5">
-                        <img className="img-fluid rounded" src="/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
+                        <img className="img-fluid rounded" src="/assets/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
                     </div>
                     <div className="col-lg-7 mt-4 mt-lg-0">
                         <h2 className="position-relative text-center bg-white text-primary rounded p-3 mt-4 mb-4 d-none d-lg-block"
@@ -202,7 +202,7 @@ function App() {
                 <div className="row">
                     <div className="col-lg-6" style={{minHeight: "500px"}}>
                         <div className="position-relative h-100 rounded overflow-hidden">
-                            <img className="position-absolute w-100 h-100" src="/img/images/Picture1.png"
+                            <img className="position-absolute w-100 h-100" src="/assets/img/images/Picture1.png"
                                  style={{objectFit: "cover"}} alt="hands tattoed with encouraging and unifying words shaking hands  "/>
                         </div>
                     </div>
@@ -280,7 +280,7 @@ function App() {
                                 <h5 className="mb-2 px-4">Melodee Armstrong</h5>
                                 <p className="mb-3 px-4">Attorney/Judge</p>
                                 <div className="team-img position-relative">
-                                    <img className="img-fluid" src="/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
+                                    <img className="img-fluid" src="/assets/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
                                     <div className="team-social">
                                         <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
@@ -295,7 +295,7 @@ function App() {
                                 <h5 className="mb-2 px-4">Staff Name</h5>
                                 <p className="mb-3 px-4">Practice Area</p>
                                 <div className="team-img position-relative">
-                                    <img className="img-fluid" src="/img/team-2.jpg" alt=""/>
+                                    <img className="img-fluid" src="/assets/img/team-2.jpg" alt=""/>
                                     <div className="team-social">
                                         <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
@@ -310,7 +310,7 @@ function App() {
                                 <h5 className="mb-2 px-4">Staff Name</h5>
                                 <p className="mb-3 px-4">Practice Area</p>
                                 <div className="team-img position-relative">
-                                    <img className="img-fluid" src="/img/team-3.jpg" alt=""/>
+                                    <img className="img-fluid" src="/assets/img/team-3.jpg" alt=""/>
                                     <div className="team-social">
                                         <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
@@ -325,7 +325,7 @@ function App() {
                                 <h5 className="mb-2 px-4">Staff Name</h5>
                                 <p className="mb-3 px-4">Practice Area</p>
                                 <div className="team-img position-relative">
-                                    <img className="img-fluid" src="/img/team-4.jpg" alt=""/>
+                                    <img className="img-fluid" src="/assets/img/team-4.jpg" alt=""/>
                                     <div className="team-social">
                                         <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
@@ -340,7 +340,7 @@ function App() {
                                 <h5 className="mb-2 px-4">Staff Name</h5>
                                 <p className="mb-3 px-4">Practice Area</p>
                                 <div className="team-img position-relative">
-                                    <img className="img-fluid" src="/img/team-5.jpg" alt=""/>
+                                    <img className="img-fluid" src="/assets/img/team-5.jpg" alt=""/>
                                     <div className="team-social">
                                         <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
@@ -376,7 +376,7 @@ function App() {
 
                         </div>
                         <div className="d-flex align-items-center pt-3">
-                            <img className="img-fluid rounded-circle" src="/img/testimonial-1.jpg"
+                            <img className="img-fluid rounded-circle" src="/assets/img/testimonial-1.jpg"
                                  style={{width: "80px", height: "80px"}} alt=""/>
                             <div className="pl-4">
                                 <h5>Greg G.<br/> Dallas ($Seven Figure Settlement)</h5>
@@ -394,7 +394,7 @@ function App() {
 
                         </div>
                         <div className="d-flex align-items-center pt-3">
-                            <img className="img-fluid rounded-circle" src="/img/testimonial-2.jpg"
+                            <img className="img-fluid rounded-circle" src="/assets/img/testimonial-2.jpg"
                                  style={{width: "80px", height: "80px"}} alt=""/>
                             <div className="pl-4">
                                 <h5>Michael E.<br/> Dallas</h5>
@@ -411,7 +411,7 @@ function App() {
                             you!""
                         </div>
                         <div className="d-flex align-items-center pt-3">
-                            <img className="img-fluid rounded-circle" src="/img/testimonial-3.jpg"
+                            <img className="img-fluid rounded-circle" src="/assets/img/testimonial-3.jpg"
                                  style={{width: "80px", height: "80px"}} alt=""/>
                             <div className="pl-4">
                                 <h5>Gregory C.</h5>
@@ -477,7 +477,7 @@ function App() {
                 <div className="col-lg-3 col-md-6 mb-5">
                     <a href="/index.html" className="navbar-brand">
                         <h1 className="m-0 mt-n2 display-8 text-primary text-uppercase">
-                            <img src="/img/images/LOMA-emblem.png" alt="Logo" className="navbar-brand"
+                            <img src="/assets/img/images/LOMA-emblem.png" alt="Logo" className="navbar-brand"
                                  style={{height: "80px"}}/>
                         </h1>
                     </a>
