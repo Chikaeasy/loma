@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 import testimonialImage4 from "./img/testimonial-4.jpg";
