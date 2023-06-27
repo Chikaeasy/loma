@@ -13,7 +13,7 @@ function App() {
                     <div className="carousel-item position-relative active"
                          style={{height: "100vh", minHeight: "400px"}}>
                         <img className="position-absolute w-100 h-100" src="/img/images/scale-of-justicewoman.png"
-                             style={{objectFit: "cover"}}/>
+                             style={{objectFit: "cover"}} alt="Scales of justice with woman"/>
                         <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div className="p-3" style={{maxWidth: "900px"}}>
                                 <h4 className="text-white text-uppercase mb-4" style={{letterSpacing: "3px"}}>We fight
@@ -26,8 +26,8 @@ function App() {
                         </div>
                     </div>
                     <div className="carousel-item position-relative" style={{height: "100vh", maxHeight: "400px"}}>
-                        <img className="position-absolute w-100 h-100" src="/img/images/scale-of-justice3.jpg"
-                             style={{objectFit: "cover"}}/>
+                        <img className="position-absolute w-100 h-100" src="/img/images/scale-of-justice-with-gavel.jpg"
+                             style={{objectFit: "cover"}} alt= "Scales of Justice with gavel in front"/>
                         <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div className="p-3" style={{maxWidth: "900px"}}>
                                 <h4 className="text-white text-uppercase mb-4" style={{letterSpacing: "3px"}}> We
@@ -62,7 +62,7 @@ function App() {
             <div className="container py-5">
                 <div className="row">
                     <div className="col-lg-5">
-                        <img className="img-fluid rounded" src="/img/images/ML-Headshot.jpg" alt=""/>
+                        <img className="img-fluid rounded" src="/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
                     </div>
                     <div className="col-lg-7 mt-4 mt-lg-0">
                         <h2 className="position-relative text-center bg-white text-primary rounded p-3 mt-4 mb-4 d-none d-lg-block"
@@ -203,7 +203,7 @@ function App() {
                     <div className="col-lg-6" style={{minHeight: "500px"}}>
                         <div className="position-relative h-100 rounded overflow-hidden">
                             <img className="position-absolute w-100 h-100" src="/img/images/Picture1.png"
-                                 style={{objectFit: "cover"}}/>
+                                 style={{objectFit: "cover"}} alt="hands tattoed with encouraging and unifying words shaking hands  "/>
                         </div>
                     </div>
                     <div className="col-lg-6 pt-5 pb-lg-5">
@@ -280,7 +280,7 @@ function App() {
                                 <h5 className="mb-2 px-4">Melodee Armstrong</h5>
                                 <p className="mb-3 px-4">Attorney/Judge</p>
                                 <div className="team-img position-relative">
-                                    <img className="img-fluid" src="/img/images/ML-Headshot.jpg" alt=""/>
+                                    <img className="img-fluid" src="/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
                                     <div className="team-social">
                                         <a className="btn btn-outline-light btn-square mx-1" href="#"><i
                                             className="fab fa-twitter"></i></a>
