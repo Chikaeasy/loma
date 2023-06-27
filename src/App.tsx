@@ -21,7 +21,7 @@ function App() {
                                 <h3 className="display-6 text-capitalize text-white mb-4"> We bring 25+ years of
                                     experience as attorney and presiding over trials and cases as a judge to your
                                     situation.</h3>
-                                <a className="btn btn-primary py-3 px-5 mt-2" href="#">Get An Appointment</a>
+                                <a className="btn btn-primary py-3 px-5 mt-2" href="/">Get An Appointment</a>
                             </div>
                         </div>
                     </div>
@@ -37,17 +37,17 @@ function App() {
                                     skilled, and well traveled to reach and meet all perspectives, personalities and
                                     needs across the United States. This allows us to customize our commitment to your
                                     case. </h3>
-                                <a className="btn btn-primary py-3 px-5 mt-2" href="#">Call Us Now</a>
+                                <a className="btn btn-primary py-3 px-5 mt-2" href="/">Call Us Now</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <a className="carousel-control-prev" href="#header-carousel" data-slide="prev">
+                <a className="carousel-control-prev" href="/" data-slide="prev">
                     <div className="btn btn-lg btn-secondary btn-lg-square">
                         <span className="carousel-control-prev-icon"></span>
                     </div>
                 </a>
-                <a className="carousel-control-next" href="#header-carousel" data-slide="next">
+                <a className="carousel-control-next" href="/" data-slide="next">
                     <div className="btn btn-lg btn-secondary btn-lg-square">
                         <span className="carousel-control-next-icon"></span>
                     </div>
@@ -255,7 +255,7 @@ function App() {
                     <div className="row h-100 align-items-center justify-content-center">
                         <div className="col-lg-7 text-center">
                             <h1 className="text-white mb-4">Let's get started. Call us now for a Free Consultation</h1>
-                            <a className="btn btn-primary py-3 px-5 mt-2" href="#">Call Us Now</a>
+                            <a className="btn btn-primary py-3 px-5 mt-2" href="/">Call Us Now</a>
                         </div>
                     </div>
                 </div>
@@ -282,11 +282,11 @@ function App() {
                                 <div className="team-img position-relative">
                                     <img className="img-fluid" src="/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
                                     <div className="team-social">
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-facebook-f"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
@@ -297,11 +297,11 @@ function App() {
                                 <div className="team-img position-relative">
                                     <img className="img-fluid" src="/img/team-2.jpg" alt=""/>
                                     <div className="team-social">
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-facebook-f"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
@@ -312,11 +312,11 @@ function App() {
                                 <div className="team-img position-relative">
                                     <img className="img-fluid" src="/img/team-3.jpg" alt=""/>
                                     <div className="team-social">
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-facebook-f"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
@@ -327,11 +327,11 @@ function App() {
                                 <div className="team-img position-relative">
                                     <img className="img-fluid" src="/img/team-4.jpg" alt=""/>
                                     <div className="team-social">
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-facebook-f"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
@@ -342,11 +342,11 @@ function App() {
                                 <div className="team-img position-relative">
                                     <img className="img-fluid" src="/img/team-5.jpg" alt=""/>
                                     <div className="team-social">
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-facebook-f"></i></a>
-                                        <a className="btn btn-outline-light btn-square mx-1" href="#"><i
+                                        <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
@@ -484,34 +484,34 @@ function App() {
                     <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd
                         et</p>
                     <div className="d-flex justify-content-start mt-4">
-                        <a className="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i
+                        <a className="btn btn-lg btn-outline-light btn-lg-square mr-2" href="/"><i
                             className="fab fa-twitter"></i></a>
-                        <a className="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i
+                        <a className="btn btn-lg btn-outline-light btn-lg-square mr-2" href="/"><i
                             className="fab fa-facebook-f"></i></a>
-                        <a className="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i
+                        <a className="btn btn-lg btn-outline-light btn-lg-square mr-2" href="/"><i
                             className="fab fa-linkedin-in"></i></a>
-                        <a className="btn btn-lg btn-outline-light btn-lg-square" href="#"><i
+                        <a className="btn btn-lg btn-outline-light btn-lg-square" href="/"><i
                             className="fab fa-instagram"></i></a>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 mb-5">
                     <h4 className="font-weight-semi-bold text-primary mb-4">Popular Links</h4>
                     <div className="d-flex flex-column justify-content-start">
-                        <a className="text-white mb-2" href="#"><i className="fa fa-angle-right mr-2"></i>Home</a>
-                        <a className="text-white mb-2" href="#"><i className="fa fa-angle-right mr-2"></i>About</a>
-                        <a className="text-white mb-2" href="#"><i className="fa fa-angle-right mr-2"></i>Services</a>
-                        <a className="text-white mb-2" href="#"><i className="fa fa-angle-right mr-2"></i>Attorney</a>
-                        <a className="text-white" href="#"><i className="fa fa-angle-right mr-2"></i>Contact</a>
+                        <a className="text-white mb-2" href="/"><i className="fa fa-angle-right mr-2"></i>Home</a>
+                        <a className="text-white mb-2" href="/"><i className="fa fa-angle-right mr-2"></i>About</a>
+                        <a className="text-white mb-2" href="/"><i className="fa fa-angle-right mr-2"></i>Services</a>
+                        <a className="text-white mb-2" href="/"><i className="fa fa-angle-right mr-2"></i>Attorney</a>
+                        <a className="text-white" href="/"><i className="fa fa-angle-right mr-2"></i>Contact</a>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 mb-5">
                     <h4 className="font-weight-semi-bold text-primary mb-4">Quick Links</h4>
                     <div className="d-flex flex-column justify-content-start">
-                        <a className="text-white mb-2" href="#"><i className="fa fa-angle-right mr-2"></i>FAQs</a>
-                        <a className="text-white mb-2" href="#"><i className="fa fa-angle-right mr-2"></i>Help</a>
-                        <a className="text-white mb-2" href="#"><i className="fa fa-angle-right mr-2"></i>Terms</a>
-                        <a className="text-white mb-2" href="#"><i className="fa fa-angle-right mr-2"></i>Privacy</a>
-                        <a className="text-white" href="#"><i className="fa fa-angle-right mr-2"></i>Site Map</a>
+                        <a className="text-white mb-2" href="/"><i className="fa fa-angle-right mr-2"></i>FAQs</a>
+                        <a className="text-white mb-2" href="/"><i className="fa fa-angle-right mr-2"></i>Help</a>
+                        <a className="text-white mb-2" href="/"><i className="fa fa-angle-right mr-2"></i>Terms</a>
+                        <a className="text-white mb-2" href="/"><i className="fa fa-angle-right mr-2"></i>Privacy</a>
+                        <a className="text-white" href="/"><i className="fa fa-angle-right mr-2"></i>Site Map</a>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 mb-5">
@@ -532,7 +532,7 @@ function App() {
             <div className="row p-4 mt-5 mx-0" style={{background: "rgba(256, 256, 256, .05)"}}>
                 <div className="col-md-6 text-center text-md-left mb-3 mb-md-0">
                     <p className="m-0 text-white">&copy; <a className="font-weight-bold"
-                                                            href="#">melodeearmstrong.com</a>. All Rights Reserved.</p>
+                                                            href="/">melodeearmstrong.com</a>. All Rights Reserved.</p>
                 </div>
                 <div className="col-md-6 text-center text-md-right">
                     <p className="m-0 text-white">Designed by Gregory Chikaeze, <a className="font-weight-bold"
@@ -545,7 +545,7 @@ function App() {
 
 
         {/* <!-- Back to Top --> */}
-        <a href="#" className="btn btn-primary px-3 back-to-top"><i className="fa fa-angle-double-up"></i></a>
+        <a href="/" className="btn btn-primary px-3 back-to-top"><i className="fa fa-angle-double-up"></i></a>
     </>
 }
 

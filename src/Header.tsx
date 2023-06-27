@@ -47,7 +47,7 @@ export default function Header() {
                       </div>
                   </div>
                   <nav className="navbar navbar-expand-lg bg-white navbar-light p-0">
-                      <a href="index.html" className="navbar-brand d-block d-lg-none">
+                      <a href="/index" className="navbar-brand d-block d-lg-none">
                           <h1 className="m-0 display-4 text-primary text-uppercase">Law Offices Of Meloddee
                               Armstrong</h1>
                       </a>
@@ -62,14 +62,14 @@ export default function Header() {
                               <Link to="/service" className="nav-item nav-link">Practice</Link>
                               <Link to="/team" className="nav-item nav-link">Office</Link>
                               <div className="nav-item dropdown">
-                                  <a href="#" className="nav-link dropdown-toggle" data-toggle="dropdown">Dropdown</a>
+                                  <a href="/" className="nav-link dropdown-toggle" data-toggle="dropdown">Dropdown</a>
                                   <div className="dropdown-menu rounded-0 m-0">
-                                      <a href="#" className="dropdown-item">Menu Item 1</a>
-                                      <a href="#" className="dropdown-item">Menu Item 2</a>
-                                      <a href="#" className="dropdown-item">Menu Item 3</a>
+                                      <a href="/" className="dropdown-item">Menu Item 1</a>
+                                      <a href="/" className="dropdown-item">Menu Item 2</a>
+                                      <a href="/" className="dropdown-item">Menu Item 3</a>
                                   </div>
                               </div>
-                              <a href="contact.html" className="nav-item nav-link">Contact</a>
+                              <a href="/contact" className="nav-item nav-link">Contact</a>
                           </div>
                           <a href="" className="btn btn-primary mr-3 d-none d-lg-block">Get A Quote</a>
                       </div>
