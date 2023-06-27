@@ -6,13 +6,14 @@ import reportWebVitals from './reportWebVitals';
 import Header from "./Header";
 import {BrowserRouter, Route, Routes, Navigate} from "react-router-dom";
 import About from "./About";
+import isProduction from "./variables/isProduction";
 
 const root = ReactDOM.createRoot(
     document.getElementById('root') as HTMLElement
 );
 root.render(
     <React.StrictMode>
-        <BrowserRouter>
+        <BrowserRouter basename={isProduction ? "loma" : ''}>
             <Header/>
             <Routes>
                 <Route path="/" element={<App />}/>
