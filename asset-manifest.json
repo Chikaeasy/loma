@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/loma/static/css/main.073c9b0a.css",
-    "main.js": "/loma/static/js/main.ebae5838.js",
+    "main.js": "/loma/static/js/main.12359a85.js",
     "static/js/787.f055211e.chunk.js": "/loma/static/js/787.f055211e.chunk.js",
     "index.html": "/loma/index.html",
     "main.073c9b0a.css.map": "/loma/static/css/main.073c9b0a.css.map",
-    "main.ebae5838.js.map": "/loma/static/js/main.ebae5838.js.map",
+    "main.12359a85.js.map": "/loma/static/js/main.12359a85.js.map",
     "787.f055211e.chunk.js.map": "/loma/static/js/787.f055211e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ebae5838.js"
+    "static/js/main.12359a85.js"
   ]
 }
