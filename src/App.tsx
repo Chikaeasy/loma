@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
 
-import testimonialImage4 from "./assets/img/testimonial-4.jpg";
+import testimonialImage4 from "src/assets/img/testimonial-4.jpg";
+import mlHeadShot from "src/assets/img/images/ML-Headshot.jpg";
 
 
 function App() {
@@ -62,7 +63,7 @@ function App() {
             <div className="container py-5">
                 <div className="row">
                     <div className="col-lg-5">
-                        <img className="img-fluid rounded" src="/assets/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
+                        <img className="img-fluid rounded" src={mlHeadShot} alt="Melodee Armstrong Headshot"/>
                     </div>
                     <div className="col-lg-7 mt-4 mt-lg-0">
                         <h2 className="position-relative text-center bg-white text-primary rounded p-3 mt-4 mb-4 d-none d-lg-block"
@@ -280,7 +281,7 @@ function App() {
                                 <h5 className="mb-2 px-4">Melodee Armstrong</h5>
                                 <p className="mb-3 px-4">Attorney/Judge</p>
                                 <div className="team-img position-relative">
-                                    <img className="img-fluid" src="/assets/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
+                                    <img className="img-fluid" src="assets/img/images/ML-Headshot.jpg" alt="Melodee Armstrong Headshot"/>
                                     <div className="team-social">
                                         <a className="btn btn-outline-light btn-square mx-1" href="/"><i
                                             className="fab fa-twitter"></i></a>

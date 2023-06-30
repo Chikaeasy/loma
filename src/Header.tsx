@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import {Link} from "react-router-dom";
-
+import logo from "src/assets/img/images/LOMA-emblem-white-bg.jpg"
 export default function Header() {
   return (
       <div className="container-fluid">
@@ -9,8 +9,8 @@ export default function Header() {
               <div className="col-lg-1 bg-white d-none d-lg-block">
                   <a href="/"
                      className="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
-                      <h1 className="m-0 display-10 text-primary text-uppercase"><img
-                          src="/assets/img/images/LOMA-emblem-white-bg.jpg" alt="Logo" className="mr-2" style={{height: "80px"}}/>
+                      <h1 className="m-0 display-10 text-primary text-uppercase">
+                          <img src={logo} alt="Logo" className="mr-2" style={{height: "80px"}}/>
                       </h1>
                   </a>
               </div>
