@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/loma/static/css/main.073c9b0a.css",
-    "main.js": "/loma/static/js/main.0481d12c.js",
+    "main.js": "/loma/static/js/main.1be38eff.js",
     "static/js/787.f055211e.chunk.js": "/loma/static/js/787.f055211e.chunk.js",
+    "static/media/ML-Headshot.jpg": "/loma/static/media/ML-Headshot.5f1a5a828fea428f6304.jpg",
+    "static/media/LOMA-emblem-white-bg.jpg": "/loma/static/media/LOMA-emblem-white-bg.0b66f5b082019adf50ec.jpg",
     "index.html": "/loma/index.html",
     "main.073c9b0a.css.map": "/loma/static/css/main.073c9b0a.css.map",
-    "main.0481d12c.js.map": "/loma/static/js/main.0481d12c.js.map",
+    "main.1be38eff.js.map": "/loma/static/js/main.1be38eff.js.map",
     "787.f055211e.chunk.js.map": "/loma/static/js/787.f055211e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0481d12c.js"
+    "static/js/main.1be38eff.js"
   ]
 }
